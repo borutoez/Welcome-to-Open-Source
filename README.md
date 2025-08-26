@@ -5492,5 +5492,15 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/borutoez">
+                    <img src="https://avatars.githubusercontent.com/u/186250282?v=4" width="100px;"
+                        alt="Boruto" />
+                    <br />
+                    <sub>
+                        <b>Boruto</b>
+                    </sub>
+                </a>
+            </td>
     </tbody>
 </table>
